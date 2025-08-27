@@ -4,7 +4,7 @@ export default function ContactSection() {
   return (
     <section
       id="Contact"
-      className="bg-[url('v.png')] bg-cover bg-center min-h-screen text-gray-300 py-12 px-4 sm:px-6 md:px-12 lg:px-24"
+      className="bg-[url('v1.png')] bg-cover bg-center min-h-screen text-gray-300 py-12 px-4 sm:px-6 md:px-12 lg:px-24"
     >
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-12 items-center">
       
