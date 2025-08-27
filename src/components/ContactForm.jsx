@@ -4,12 +4,12 @@ export default function ContactSection() {
   return (
     <section
       id="Contact"
-      className="bg-[url('vv.png')] bg-cover bg-center min-h-screen text-gray-300 py-12 px-4 sm:px-6 md:px-12 lg:px-24"
+      className="bg-[url(vv.png)] bg-cover bg-center min-h-screen text-gray-300 py-12 px-4 sm:px-6 md:px-12 lg:px-24"
     >
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-12 items-center">
       
         <div className="flex justify-center">
-          <div className="w-48 sm:w-64 md:w-72 lg:w-80 h-64 sm:h-80 md:h-96 bg-[url('v.jpg')] bg-cover bg-top rounded-2xl shadow-xl border border-white/20 backdrop-blur-md" />
+          <div className="w-48 sm:w-64 md:w-72 lg:w-80 h-64 sm:h-80 md:h-96 bg-[url(v.jpg)] bg-cover bg-top rounded-2xl shadow-xl border border-white/20 backdrop-blur-md" />
         </div>
 
         
