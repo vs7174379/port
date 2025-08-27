@@ -45,7 +45,7 @@ const HeroSection = () => {
 
        
         <div className="flex justify-center lg:justify-end w-full lg:w-auto">
-          <div className="w-48 sm:w-60 md:w-72 lg:w-80 h-60 sm:h-72 md:h-80 lg:h-96 bg-[url(v.jpg)] bg-cover bg-top rounded-2xl shadow-xl border border-white/20 backdrop-blur-md"></div>
+          <div className="w-48 sm:w-60 md:w-72 lg:w-80 h-60 sm:h-72 md:h-80 lg:h-96 bg-[url('v.jpg')] bg-cover bg-top rounded-2xl shadow-xl border border-white/20 backdrop-blur-md"></div>
         </div>
       </div>
     </section>
