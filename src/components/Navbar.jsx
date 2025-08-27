@@ -12,7 +12,7 @@ function Navbar() {
        
         <a href="#">
           <img
-            src="https://in.bmscdn.com/iedb/artist/images/website/poster/large/ranbir-kapoor-2817-1691565170.jpg"
+            src="../public/v.jpg"
             className="rounded-full w-10 h-10 object-cover ring-2 ring-indigo-500 hover:scale-110 transition-transform duration-300"
             alt="logo"
           />
